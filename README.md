@@ -1,3 +1,3 @@
 # exercice-repo
 repo made for exercice
-This will make a conffilct
+We resolved the conflict!
